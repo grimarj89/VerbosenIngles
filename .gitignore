@@ -2,9 +2,7 @@
 /local.properties
 
 # Android studio
-.idea/
-.idea/**
-.idea/*
+/.idea/
 
 .DS_Store
 /build
