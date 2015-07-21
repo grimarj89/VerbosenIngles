@@ -1,0 +1,18 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# Clases de java
+*.class
+
+# Archivos de IDEA
+*.iml
+
+# Apks
+*.apk
+*.ap_
+
